@@ -1,0 +1,6 @@
+{
+  "name": "ExamShield",
+  "description": "Sistem ujian aman (Exambro) dan pemantauan peserta ujian secara real-time dengan deteksi anti-kecurangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
